@@ -50,7 +50,7 @@ coverage.xml
 *.py,cover
 .hypothesis/
 .pytest_cache/
-app/app/settings.py
+# app/app/settings.py
 
 # Translations
 *.mo
@@ -60,8 +60,8 @@ app/app/settings.py
 *.log
 local_settings.py
 db.sqlite3
-app/app/settings.py
-settings.py
+# app/app/settings.py
+# settings.py
 db.sqlite3-journal
 
 # Flask stuff:
