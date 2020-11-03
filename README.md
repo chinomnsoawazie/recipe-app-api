@@ -68,13 +68,25 @@ This is an app To display recipes
    <li><a href="#credits">Credits</a></li>
  </ul>
  
+ <a href="#table-of-contents"> <img src="https://img.shields.io/badge/-Back%20To%20Table%20of%20Contents-lightgrey" style="max-width:50%;"></a>
+
+ <h1 id="contact">Contacts</h1>
+    <p>
+ <ul>
+  <li><a href="coawazie@gmail.com">Email</a></li>
+  <li><a href="https://www.linkedin.com/in/chinomnsoawazie/">LinkedIn</a></li>
+  <li><a href="https://twitter.com/COAwazie">Twitter</a></li>
+  <li><a href="https://medium.com/coffee-software">Medium</a></li>
+ </ul>
+</p>
+
+<a href="#table-of-contents"> <img src="https://img.shields.io/badge/-Back%20To%20Table%20of%20Contents-lightgrey" style="max-width:50%;"></a>
+ 
  
   <h1 id="credits">Credits</h1>
     <p>
  <ul>
-  <li><a href="https://flatironschool.com/">The Flatiron School</a></li>
   <li><a href="https://jwt.io/introduction/">JWT Auth</a></li>
-  <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
     <li><a href="https://rubyonrails.org/">Rails</a></li>
   <li><a href="https://rubygems.org/gems/dotenv-rails/versions/2.7.5">dotenv-rails</a></li>
   <li><a href="https://rubygems.org/gems/bcrypt/versions/3.1.7">Bcrypt</a></li>
