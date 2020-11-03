@@ -14,7 +14,7 @@ This is an app To display recipes
  <p align="center"> <img src="https://img.shields.io/badge/-Notices-blue" style="max-width:50%;"> </p>
    
  <p align="center"> 
-   <img src="https://img.shields.io/badge/Status-In%Progress-brightgreen" style="max-width:50%;">
+   <img src="https://img.shields.io/badge/Status-In%20Progress-brightgreen" style="max-width:50%;">
 </p>
 
 <h1>
