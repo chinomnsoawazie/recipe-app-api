@@ -3,36 +3,19 @@ This is an app To display recipes
 
 
 
-<p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/chinomnsoawazie/station-locate-backend">
-  
-</a>
-</p>
-
 <p align="center"> <img src="https://img.shields.io/badge/-Technologies%20Used-blue" style="max-width:50%;"> </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ruby-2.7.0-red" style="max-width:50%;">
-  <img src="https://img.shields.io/badge/PostgreSQL-12.1-orange" style="max-width:50%;">
-  <img src="https://img.shields.io/badge/Image%20processing-1.2-green" style="max-width:50%;">
-  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-6.0.2-red" style="max-width:50%;">
-  <img src="https://img.shields.io/badge/Active%20model%20serializers-0.10.0-yellow" style="max-width:50%;">
-  <img src="https://img.shields.io/badge/Dotenv%20Rails-2.7-orange" style="max-width:50%;">
-  <img src="https://img.shields.io/badge/Bycrypt-3.1.7-blue" style="max-width:50%;">
-  <img src="https://img.shields.io/badge/JWT-1.5.4-red" style="max-width:50%;">
+  <img src="https://img.shields.io/badge/Python-red" style="max-width:50%;">
+  <img src="https://img.shields.io/badge/Docker-orange" style="max-width:50%;">
+  <img src="https://img.shields.io/badge/Travis-green" style="max-width:50%;">
  </p>
   
  <p align="center"> <img src="https://img.shields.io/badge/-Notices-blue" style="max-width:50%;"> </p>
    
  <p align="center"> 
-  <a target="blank" rel="noopener noreferrer" href="https://github.com/chinomnsoawazie/station-locate-frontend">
-    <img src="https://img.shields.io/badge/Frontend%20repository-Click%20here-green" style="max-width:50%;">
-  </a>
-   <img src="https://img.shields.io/badge/Status-Making%20mobile%20app%20version-brightgreen" style="max-width:50%;">
+   <img src="https://img.shields.io/badge/Status-In%Progress-brightgreen" style="max-width:50%;">
 </p>
-
- <h3 align="center"> Take a spin of the FindStation app on Heroku by clicking
- <a href="https://stationfind-app-frontend.herokuapp.com/">👉here👈</a></h3>
 
 <h1>
   <a id="table-of-contents" class="anchor" href="#contents">  </a>
