@@ -52,6 +52,21 @@ This is an app To display recipes
  </ul>
  
  <a href="#table-of-contents"> <img src="https://img.shields.io/badge/-Back%20To%20Table%20of%20Contents-lightgrey" style="max-width:50%;"></a>
+ 
+ <a href="#table-of-contents"> <img src="https://img.shields.io/badge/-Back%20To%20Table%20of%20Contents-lightgrey" style="max-width:50%;"></a>
+  
+  <h1 id="goals">Goals</h1>
+    <p>  The goals of this app are;
+
+ <ul>
+  <li>To present real jobs to users</li>
+  <li>To make it easier to for job seekers to manage their job search process within one app</li>
+   <li>To make finding Veteran jobs(jobs veterans are preferred candidates) easier</li>
+ </ul>
+</p>
+
+<a href="#table-of-contents"> <img src="https://img.shields.io/badge/-Back%20To%20Table%20of%20Contents-lightgrey" style="max-width:50%;"></a>
+
 
  <h1 id="contact">Contacts</h1>
     <p>
