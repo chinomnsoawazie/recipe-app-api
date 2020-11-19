@@ -83,8 +83,10 @@ This is an app To display recipes
  
   <h1 id="credits">Credits</h1>
     <p>
+
  <ul>
- 
+   <li><a href="https://www.python.org/">Python</a></li>
+    <li><a href="https://www.docker.com/">Docker</a></li>
  </ul>
 </p>
 
