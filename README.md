@@ -69,7 +69,7 @@ This is an app To display recipes
 
 
 <h1 id="demo">Demo</h1>
-   <p>Click <a href="https://youtu.be/LVsukhMWxtI">here</a> to view demo</p>
+   <p>Demo is comming soon</p>
    
    <a href="#table-of-contents"> <img src="https://img.shields.io/badge/-Back%20To%20Table%20of%20Contents-lightgrey" style="max-width:50%;"></a>
 
