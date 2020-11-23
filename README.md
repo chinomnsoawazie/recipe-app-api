@@ -9,6 +9,7 @@ This is an app To display recipes
   <img src="https://img.shields.io/badge/Python-red" style="max-width:50%;">
   <img src="https://img.shields.io/badge/Docker-orange" style="max-width:50%;">
   <img src="https://img.shields.io/badge/Travis-green" style="max-width:50%;">
+  <img src="https://img.shields.io/badge/VSCode-red" style="max-width:50%;">
  </p>
   
  <p align="center"> <img src="https://img.shields.io/badge/-Notices-blue" style="max-width:50%;"> </p>
